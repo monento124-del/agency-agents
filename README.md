@@ -413,6 +413,7 @@ The unique specialists who don't fit in a box.
 | 🛡️ [FedRAMP & RMF Compliance Engineer](specialized/specialized-fedramp-rmf-compliance.md) | Federal cloud authorization (ATO) | NIST 800-53, FedRAMP Rev5/20x, SSP/POA&M, ConMon, OSCAL |
 | 🏺 [Codebase Archaeologist](specialized/specialized-codebase-archaeologist.md) | Multi-tool codebase drift audits | Detecting silent drift across Claude/Cursor/Copilot/Windsurf edits |
 | 🧾 [Resume Tailor](specialized/resume-tailor.md) | Candidate-side resume optimization | JD mapping, ATS keyword alignment, experience-to-requirement matching |
+| 🤝 [Fukugyo Cloud Win Coach](specialized/specialized-fukugyo-cloud-win-coach.md) | 複業クラウド案件獲得の伴走（日本語） | Profile positioning, project screening, tailored applications, interview prep, pipeline tracking |
 | 🧡 [Aging Parent Care Companion](specialized/healthcare-aging-parent-care-companion.md) | Family caregiver decision-support | Appointment/medication coordination, care-team comms, caregiver wellbeing (HIPAA-aligned) |
 
 ### 💵 Finance Division
